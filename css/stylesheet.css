@@ -37,7 +37,7 @@ header {
     text-align: center;
 }
 
-.greenBox:before {
+.greenBox::before {
     content: '';
     width: 0;
     height: 0;
@@ -50,7 +50,7 @@ header {
     left: 4%;
 }
 
-.greenBox:after {
+.greenBox::after {
     content: '';
     width: 0;
     height: 0;
