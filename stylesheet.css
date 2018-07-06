@@ -1,0 +1,89 @@
+header {
+    background-image: url('../images/bsqueezed_bg_dark.jpg') !important;
+    -webkit-background-size: cover;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.light {
+    color: white;
+}
+
+.lime-text {
+    color: #b0d136;
+}
+
+.padding-bottom {
+    padding-bottom: 10px;
+}
+
+.padding-right {
+    padding-right: 20px;
+}
+
+.padding-top {
+    padding-top: 30px;
+}
+
+.greenBox {
+    margin: 0 auto;
+    width: auto;
+    height: 525px;
+    padding: 40px 30px;
+    background-color: #b0d136;
+    text-align: center;
+}
+
+.greenBox:before {
+    content: ' ';
+    width: 0;
+    height: 0;
+    display: flex;
+    position: absolute;
+    border-left: 220px solid transparent;
+    border-top: 80px solid #b0d136;
+    border-right: 225px solid transparent;
+    top: 100%;
+    left: 4%;
+}
+
+.greenBox:after {
+    content: ' ';
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-left: 25px solid transparent;
+    border-top: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 25px solid #b0d136;
+    bottom: 100%;
+    right: 50%;
+    margin-right: -25px;
+}
+
+.purple-text {
+    color: #7b2b83;
+}
+
+.purple-bg {
+    background-color: #7b2b83;
+}
+
+input,
+textarea {
+    border-radius: 25px !important;
+    border: 2px solid;
+}
+
+button:hover {
+    font-weight: bold;
+}
+
+@media (max-width: 576px) {
+    .mobile-spacer {
+        padding-bottom: 20px;
+    }
+}
