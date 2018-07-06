@@ -38,7 +38,7 @@ header {
 }
 
 .greenBox:before {
-    content: ' ';
+    content: '';
     width: 0;
     height: 0;
     display: flex;
@@ -51,7 +51,7 @@ header {
 }
 
 .greenBox:after {
-    content: ' ';
+    content: '';
     width: 0;
     height: 0;
     position: absolute;
