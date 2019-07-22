@@ -1,0 +1,372 @@
+<html>
+
+<script type="text/javascript">
+
+const csArray = [
+  document.getElementById('cs-1'),
+  document.getElementById('cs-2'),
+  document.getElementById('cs-3'),
+  document.getElementById('cs-4'),
+  document.getElementById('cs-5'),
+  document.getElementById('cs-6')
+];
+
+function csFunction = () {
+  for (i=0; i<csArray.length; i++) {
+    if
+  }
+}
+
+function csFunction = () {
+  var x = document.getElementById('cs-1');
+  var y = document.getElementById('block-yui_3_17_2_1_1562866865613_306895','block-yui_3_17_2_1_1562866865613_51402','block-yui_3_17_2_1_1562881079742_253937');
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+  } else {
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+
+
+
+document.getElementById('arrow-1').onclick = function () {
+  document.getElementById('cs-1').style.display = 'show'
+} else {
+  document.getElementById('cs-1').style.display = 'none';
+}
+
+
+
+
+
+</script>
+
+
+<style>
+.block-1 {
+  background-image: url('https://static1.squarespace.com/static/5cc0d2e0b914495c264d0ae2/t/5d32237eae0b5100014bea28/1563566986933/beans-beverage-caffeine-34079.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: inset 0 0 0 1000px rgba(0,0,215,.25);
+  color: #fff;
+  width: 90%;
+  height: 225px;
+  padding: 25px;
+  position: relative;
+}
+.figure {
+  padding:10px;
+  }
+.block-arrow {
+ 	padding-top: 75px;
+  }
+
+</style>
+<div id="cs-1">
+	<div id="block-container" class="block-1 flex">
+    	<div class="intro">
+            <h1 class="custom-h1 white">
+              Inventory <br> Management App
+            </h1>
+        	<a href="">
+              <button class="custom-button">
+              <p class="custom-button-copy">
+               EXPLORE OUR CASE STUDY
+                 </p>
+                </button>
+          	</a>
+     	 </div>
+      	<div class="facts-figures flex">
+          <div id="figure-1" class="figure">
+                <h2 class="custom-h2 white">
+                  5%
+                </h2>
+                <p class="custom-body">
+                  Facts and Figures
+                </p>
+          </div>
+          <div id="figure-2" class="figure">
+              <h2 class="custom-h2 white">
+                  5%
+                </h2>
+                <p class="custom-body">
+                  Facts and Figures
+              </p>
+          </div>
+          <div id="figure-3" class="figure">
+                <h2 class="custom-h2 white">
+                  5%
+                </h2>
+                <p class="custom-body">
+                  Facts and Figures
+                </p>
+          </div>
+       </div>
+      <div id="arrow-1" class="block-arrow">
+         <i class="fas fa-chevron-left fa-4x grow white"></i>
+       </div>
+     </div>
+   </div>
+
+   Block Names
+   //#block-yui_3_17_2_1_1562866865613_306895 BUTTON ARROW
+   //#block-yui_3_17_2_1_1562866865613_51402 TITLEANDTEXT
+   //#block-yui_3_17_2_1_1562881079742_253937 IMAGE
+
+   <div id="cs-2">
+   	<div id="block-container" class="block-2 flex">
+       	<div class="intro">
+               <h1 class="custom-h1 white">
+                 Predictive <br> Analytics
+               </h1>
+           	<a href="">
+                 <button class="custom-button">
+                 <p class="custom-button-copy">
+                  EXPLORE OUR CASE STUDY
+                    </p>
+                   </button>
+             	</a>
+        	 </div>
+         	<div class="facts-figures flex">
+             <div id="figure-1" class="figure">
+                   <h2 class="custom-h2 white">
+                     5%
+                   </h2>
+                   <p class="custom-body">
+                     Facts and Figures
+                   </p>
+             </div>
+             <div id="figure-2" class="figure">
+                 <h2 class="custom-h2 white">
+                     5%
+                   </h2>
+                   <p class="custom-body">
+                     Facts and Figures
+                 </p>
+             </div>
+             <div id="figure-3" class="figure">
+                   <h2 class="custom-h2 white">
+                     5%
+                   </h2>
+                   <p class="custom-body">
+                     Facts and Figures
+                   </p>
+             </div>
+          </div>
+         <div id="arrow-2" class="block-arrow">
+            <i class="fas fa-chevron-left fa-4x grow white"></i>
+          </div>
+        </div>
+      </div>
+
+      Block Names
+      //#block-yui_3_17_2_1_1562881079742_27938 BUTTON ARROW
+      //#block-yui_3_17_2_1_1562866865613_52967 TITLEANDTEXT
+      //#block-yui_3_17_2_1_1562881079742_299797 IMAGE
+
+      <div id="cs-3">
+      	<div id="block-container" class="block-3 flex">
+          	<div class="intro">
+                  <h1 class="custom-h1 white">
+                    AWS AppStream
+                  </h1>
+              	<a href="">
+                    <button class="custom-button">
+                    <p class="custom-button-copy">
+                     EXPLORE OUR CASE STUDY
+                       </p>
+                      </button>
+                	</a>
+           	 </div>
+            	<div class="facts-figures flex">
+                <div id="figure-1" class="figure">
+                      <h2 class="custom-h2 white">
+                        5%
+                      </h2>
+                      <p class="custom-body">
+                        Facts and Figures
+                      </p>
+                </div>
+                <div id="figure-2" class="figure">
+                    <h2 class="custom-h2 white">
+                        5%
+                      </h2>
+                      <p class="custom-body">
+                        Facts and Figures
+                    </p>
+                </div>
+                <div id="figure-3" class="figure">
+                      <h2 class="custom-h2 white">
+                        5%
+                      </h2>
+                      <p class="custom-body">
+                        Facts and Figures
+                      </p>
+                </div>
+             </div>
+            <div id="arrow-3" class="block-arrow">
+               <i class="fas fa-chevron-left fa-4x grow white"></i>
+             </div>
+           </div>
+         </div>
+
+         Block Names
+         //#block-yui_3_17_2_1_1562881079742_33274 BUTTON ARROW
+         //#block-yui_3_17_2_1_1562866865613_70464 TITLEANDTEXT
+         //#block-yui_3_17_2_1_1562881079742_327661 IMAGE
+
+         <div id="cs-4">
+         	<div id="block-container" class="block-4 flex">
+             	<div class="intro">
+                     <h1 class="custom-h1 white">
+                       IoT Sensors + <br> Cloud
+                     </h1>
+                 	<a href="">
+                       <button class="custom-button">
+                       <p class="custom-button-copy">
+                        EXPLORE OUR CASE STUDY
+                          </p>
+                         </button>
+                   	</a>
+              	 </div>
+               	<div class="facts-figures flex">
+                   <div id="figure-1" class="figure">
+                         <h2 class="custom-h2 white">
+                           5%
+                         </h2>
+                         <p class="custom-body">
+                           Facts and Figures
+                         </p>
+                   </div>
+                   <div id="figure-2" class="figure">
+                       <h2 class="custom-h2 white">
+                           5%
+                         </h2>
+                         <p class="custom-body">
+                           Facts and Figures
+                       </p>
+                   </div>
+                   <div id="figure-3" class="figure">
+                         <h2 class="custom-h2 white">
+                           5%
+                         </h2>
+                         <p class="custom-body">
+                           Facts and Figures
+                         </p>
+                   </div>
+                </div>
+               <div id="arrow-4" class="block-arrow">
+                  <i class="fas fa-chevron-left fa-4x grow white"></i>
+                </div>
+              </div>
+            </div>
+
+            Block Names
+            //#block-yui_3_17_2_1_1562881079742_42511 BUTTON ARROW
+            //#block-yui_3_17_2_1_1562881079742_335184 TITLEANDTEXT
+            //#block-yui_3_17_2_1_1562866865613_75454 IMAGE
+
+            <div id="cs-5">
+            	<div id="block-container" class="block-5 flex">
+                	<div class="intro">
+                        <h1 class="custom-h1 white">
+                          30-Day Cloud <br> Migration
+                        </h1>
+                    	<a href="">
+                          <button class="custom-button">
+                          <p class="custom-button-copy">
+                           EXPLORE OUR CASE STUDY
+                             </p>
+                            </button>
+                      	</a>
+                 	 </div>
+                  	<div class="facts-figures flex">
+                      <div id="figure-1" class="figure">
+                            <h2 class="custom-h2 white">
+                              5%
+                            </h2>
+                            <p class="custom-body">
+                              Facts and Figures
+                            </p>
+                      </div>
+                      <div id="figure-2" class="figure">
+                          <h2 class="custom-h2 white">
+                              5%
+                            </h2>
+                            <p class="custom-body">
+                              Facts and Figures
+                          </p>
+                      </div>
+                      <div id="figure-3" class="figure">
+                            <h2 class="custom-h2 white">
+                              5%
+                            </h2>
+                            <p class="custom-body">
+                              Facts and Figures
+                            </p>
+                      </div>
+                   </div>
+                  <div id="arrow-5" class="block-arrow">
+                     <i class="fas fa-chevron-left fa-4x grow white"></i>
+                   </div>
+                 </div>
+               </div>
+
+               Block Names
+               //#block-yui_3_17_2_1_1562881079742_110451 BUTTON ARROW
+               //#block-yui_3_17_2_1_1562866865613_87435 TITLEANDTEXT
+               //#block-yui_3_17_2_1_1562881079742_340344 IMAGE
+
+               <div id="cs-6">
+               	<div id="block-container" class="block-6 flex">
+                   	<div class="intro">
+                           <h1 class="custom-h1 white">
+                             Managed Help <br> Desk
+                           </h1>
+                       	<a href="">
+                             <button class="custom-button">
+                             <p class="custom-button-copy">
+                              EXPLORE OUR CASE STUDY
+                                </p>
+                               </button>
+                         	</a>
+                    	 </div>
+                     	<div class="facts-figures flex">
+                         <div id="figure-1" class="figure">
+                               <h2 class="custom-h2 white">
+                                 5%
+                               </h2>
+                               <p class="custom-body">
+                                 Facts and Figures
+                               </p>
+                         </div>
+                         <div id="figure-2" class="figure">
+                             <h2 class="custom-h2 white">
+                                 5%
+                               </h2>
+                               <p class="custom-body">
+                                 Facts and Figures
+                             </p>
+                         </div>
+                         <div id="figure-3" class="figure">
+                               <h2 class="custom-h2 white">
+                                 5%
+                               </h2>
+                               <p class="custom-body">
+                                 Facts and Figures
+                               </p>
+                         </div>
+                      </div>
+                     <div id="arrow-6" class="block-arrow">
+                        <i class="fas fa-chevron-left fa-4x grow white"></i>
+                      </div>
+                    </div>
+                  </div>
+
+                  Block Names
+                  //#block-yui_3_17_2_1_1562881079742_157081 BUTTON ARROW
+                  //#block-yui_3_17_2_1_1562866865613_98156 TITLEANDTEXT
+                  //#block-yui_3_17_2_1_1562881079742_349704 IMAGE
+</html>
